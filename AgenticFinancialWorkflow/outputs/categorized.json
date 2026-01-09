@@ -1,0 +1,88 @@
+{
+  "categorized": [
+    {
+      "date": "2024-10-01",
+      "merchant": "Amazon",
+      "amount": 45.99,
+      "category": "Shopping"
+    },
+    {
+      "date": "2024-10-01",
+      "merchant": "Starbucks",
+      "amount": 8.25,
+      "category": "Dining"
+    },
+    {
+      "date": "2024-10-02",
+      "merchant": "Trader Joe's",
+      "amount": 76.4,
+      "category": "Shopping"
+    },
+    {
+      "date": "2024-10-02",
+      "merchant": "Uber",
+      "amount": 22.5,
+      "category": "Other"
+    },
+    {
+      "date": "2024-10-03",
+      "merchant": "Blue Bottle",
+      "amount": 6.5,
+      "category": "Dining"
+    },
+    {
+      "date": "2024-10-03",
+      "merchant": "Costco",
+      "amount": 185.75,
+      "category": "Shopping"
+    },
+    {
+      "date": "2024-10-04",
+      "merchant": "Chipotle",
+      "amount": 14.1,
+      "category": "Dining"
+    },
+    {
+      "date": "2024-10-05",
+      "merchant": "Spotify",
+      "amount": 10.99,
+      "category": "Utilities"
+    },
+    {
+      "date": "2024-10-05",
+      "merchant": "Apple Store",
+      "amount": 120.0,
+      "category": "Shopping"
+    },
+    {
+      "date": "2024-10-06",
+      "merchant": "Shell Gas",
+      "amount": 42.3,
+      "category": "Utilities"
+    },
+    {
+      "date": "2024-10-06",
+      "merchant": "Whole Foods",
+      "amount": 84.6,
+      "category": "Shopping"
+    },
+    {
+      "date": "2024-10-07",
+      "merchant": "Paycheck",
+      "amount": -2500.0,
+      "category": "Income"
+    },
+    {
+      "date": "2024-10-07",
+      "merchant": "AT&T",
+      "amount": 95.0,
+      "category": "Utilities"
+    },
+    {
+      "date": "2024-10-08",
+      "merchant": "Domino's",
+      "amount": 18.75,
+      "category": "Dining"
+    }
+  ]
+}

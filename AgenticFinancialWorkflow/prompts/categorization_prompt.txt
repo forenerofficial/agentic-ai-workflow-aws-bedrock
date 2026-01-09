@@ -1,0 +1,7 @@
+You are a financial analysis agent. Given the following transaction data, categorize each transaction into: Shopping, Dining, Utilities, Income, or Other.
+
+Return a valid JSON structure following this exact format:
+{ "categorized": [ { "date": "", "merchant": "", "amount": 0, "category": "" } ] }
+
+Transaction data:
+[CSV_DATA_WILL_GO_HERE]

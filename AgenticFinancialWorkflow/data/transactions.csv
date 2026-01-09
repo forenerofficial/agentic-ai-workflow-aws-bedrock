@@ -1,0 +1,15 @@
+date,merchant,amount,description
+2024-10-01,Amazon,45.99,Online shopping - household items
+2024-10-01,Starbucks,8.25,Coffee and snack
+2024-10-02,Trader Joe's,76.40,Grocery shopping
+2024-10-02,Uber,22.50,Transportation ride
+2024-10-03,Blue Bottle,6.50,Coffee
+2024-10-03,Costco,185.75,Monthly groceries
+2024-10-04,Chipotle,14.10,Lunch
+2024-10-05,Spotify,10.99,Subscription service
+2024-10-05,Apple Store,120.00,Electronics purchase
+2024-10-06,Shell Gas,42.30,Gas refill
+2024-10-06,Whole Foods,84.60,Groceries
+2024-10-07,Paycheck,-2500.00,Monthly salary incoming
+2024-10-07,AT&T,95.00,Phone and internet bill
+2024-10-08,Domino's,18.75,Food takeout
